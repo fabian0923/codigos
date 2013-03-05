@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="BD/src"/>
+	<classpathentry kind="src" path="ejercicio/carros-android/src"/>
+	<classpathentry kind="src" path="ejercicio/carros-desktop/src"/>
+	<classpathentry kind="src" path="ejercicio/carros-html/src"/>
+	<classpathentry kind="src" path="ejercicio/carros/src"/>
+	<classpathentry kind="src" path="Juego Grupal/GameDroplet-android/gen"/>
+	<classpathentry kind="src" path="Juego Grupal/GameDroplet-android/src"/>
+	<classpathentry kind="src" path="Juego Grupal/GameDroplet-desktop/src"/>
+	<classpathentry kind="src" path="Juego Grupal/GameDroplet-html/src"/>
+	<classpathentry kind="src" path="Juego Grupal/GameDroplet/src"/>
+	<classpathentry kind="src" path="Sesion/src"/>
+	<classpathentry kind="src" path="Tarificador/TarificadorAdmin/src"/>
+	<classpathentry kind="src" path="Tarificador/TarificadorUsuario/src"/>
+	<classpathentry kind="lib" path="BD/bin/napkinlaf-1.2.jar"/>
+	<classpathentry kind="lib" path="BD/bin/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="BD/bin/synthetica.jar"/>
+	<classpathentry kind="lib" path="BD/bin/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="BD/jdbc/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="BD/skin/napkinlaf-1.2.jar"/>
+	<classpathentry kind="lib" path="BD/skin/synthetica.jar"/>
+	<classpathentry kind="lib" path="BD/skin/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros-android/libs/gdx-backend-android-sources.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros-android/libs/gdx-backend-android.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros-desktop/libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros-desktop/libs/gdx-backend-lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros-desktop/libs/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros-desktop/libs/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros-html/war/WEB-INF/lib/gdx-backend-gwt-sources.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros-html/war/WEB-INF/lib/gdx-backend-gwt.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="ejercicio/carros/libs/gdx.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-android/libs/gdx-backend-android-sources.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-android/libs/gdx-backend-android.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-desktop/libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-desktop/libs/gdx-backend-lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-desktop/libs/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-desktop/libs/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-html/war/WEB-INF/lib/gdx-backend-gwt-sources.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-html/war/WEB-INF/lib/gdx-backend-gwt.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet-html/war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="Juego Grupal/GameDroplet/libs/gdx.jar"/>
+	<classpathentry kind="lib" path="Sesion/bin/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="Sesion/jdbc/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="Tarificador/TarificadorAdmin/bin/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="Tarificador/TarificadorAdmin/Jdbc/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Tarificador/TarificadorUsuario/bin"/>
+</classpath>
