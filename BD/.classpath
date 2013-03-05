@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="BasesDatos"/>
+	<classpathentry kind="src" path="jdbc"/>
+	<classpathentry kind="src" path="Imagenes"/>
+	<classpathentry kind="src" path="skin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jdbc/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="skin/napkinlaf-1.2.jar"/>
+	<classpathentry kind="lib" path="skin/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="skin/synthetica.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
