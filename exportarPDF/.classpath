@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="baseDatos"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/itext/itext-pdfa-5.4.0.jar" sourcepath="lib/itext/itext-pdfa-5.4.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/exportarPDF/lib/itext/itext-pdfa-5.4.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/itext/itext-xtra-5.4.0.jar" sourcepath="lib/itext/itext-xtra-5.4.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/exportarPDF/lib/itext/itext-xtra-5.4.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/itext/itextpdf-5.4.0.jar" sourcepath="lib/itext/itextpdf-5.4.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/exportarPDF/lib/itext/itextpdf-5.4.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jdbc/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
